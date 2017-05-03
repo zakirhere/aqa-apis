@@ -1,0 +1,38 @@
+{
+	"project-name": "P1",
+	"feature-details": [{
+			"test-name": "t1",
+			"description": "test description1",
+			"result": {
+				"duration": 9999,
+				"passed": 600,
+				"failed": 100,
+				"notrun": 50,
+				"total": 750,
+				"device": "iOS10",
+				"browser": "safari"
+			},
+			"screenshot": "<image-file>",
+			"created-date": "2017-05-04 15:04:23.123",
+			"modified-date": "2017-05-04 15:04:23.123"
+		},
+		{
+			"test-name": "t2",
+			"description": "test description2",
+			"result": {
+				"duration": 8888,
+				"passed": 100,
+				"failed": 10,
+				"notrun": 50,
+				"total": 160,
+				"device": "Windows10",
+				"browser": "Chrome"
+			},
+			"screenshot": "<image-file>",
+			"created-date": "2017-05-04 15:04:23.123",
+			"modified-date": "2017-05-04 15:04:23.123"
+		}
+	]
+
+
+}
